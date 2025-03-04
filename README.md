@@ -13,35 +13,42 @@
 
 ---
 
-## 🎨 **Who am I?**  
-🌟 **A Passionate Tech Innovator, AI Enthusiast, and Future Entrepreneur!**  
-💡 I love solving **real-world problems** with cutting-edge technology.  
-📌 **Focused on:** AI, Web Development, App Development, Data Science & Machine Learning.  
-🎯 **Goal:** Creating **smart, scalable, and impactful solutions** for the world!  
-🚀 Always eager to **learn, experiment, and collaborate!**  
+## 🌟 **Who am I?**  
+🚀 **Tech Innovator | AI Enthusiast | Future Entrepreneur**  
+💡 Passionate about **Flutter Flow, Web Dev, and AI**  
+📊 Exploring **Data Science, Machine Learning, & Smart Solutions**  
+🎯 **Goal:** To build the next big thing in **AI & Technology!**  
+🔬 **Always experimenting, innovating, and building!**  
 
 ---
 
-## 🔥 **Tech Stack & Tools**  
+## 🎨 **Tech Stack & Tools**  
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=python,dart,flutter,,firebase,tensorflow,react,aws,docker,github,git,vscode" alt="Tech Stack" />  
+  <img src="https://skillicons.dev/icons?i=python,dart,flutter,firebase,tensorflow,react,aws,docker,github,git,vscode,linux" alt="Tech Stack" />  
 </p>  
 
 ---
 
 ## 💎 **Latest Projects** 🚀  
-🎯 **Some of my coolest projects:**  
+🎯 **Some of my most innovative projects:**  
 
 ### 🌊 **Live Water Quality Monitoring**  
-📌 *Real-time water quality monitoring using IoT & AI.*  
+📌 *Real-time IoT & AI-based water quality monitoring system.*  
 🔗 [Check it out!](https://github.com/ajeshkm/live-water-quality-monitoring)  
 
+### 🏋️ **AI-Powered Fitness Tracker**  
+📌 *A mobile app with AI-generated personalized workout plans.*  
+🔗 [Explore now!](https://github.com/ajeshkm/fitness-tracker)  
+
+### 📋 **Facial Recognition Attendance System**  
+📌 *An AI-based attendance tracking system with deep learning models.*  
+🔗 [See the project](https://github.com/ajeshkm/ai-attendance)  
 
 ---
 
 ## 🏆 **GitHub Achievements**  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajeshkm&theme=radical&no-frame=true&margin-w=10" alt="GitHub Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ajeshkm&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophy">
 </p>
 
 ---
@@ -73,7 +80,7 @@
 ---
 
 ## 📫 **Let's Connect & Collaborate!** 🌍  
-💬 **Want to work on amazing projects? Let’s talk!**  
+💬 **Want to build something amazing? Let’s connect!**  
 
 <p align="center">  
   <a href="https://linkedin.com/in/ajesh-km-6a868626a">
@@ -93,4 +100,4 @@
 ---
 
 ## ⚡ **Fun Fact!**  
-🎭 *"Life is like coding – there's always a way to debug your problems!"* 🚀  
+💡 *"Coding is like magic – you create something from nothing!"* 🎩✨  
