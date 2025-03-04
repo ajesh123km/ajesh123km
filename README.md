@@ -53,9 +53,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ajeshkm&show_icons=true&theme=tokyonight&border_color=ffcc00" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeshkm&layout=compact&theme=tokyonight&border_color=ffcc00" alt="Top Languages" />
-</p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajeshkm&theme=github_dark" alt="GitHub Contributions Graph">
