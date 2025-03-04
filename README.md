@@ -24,7 +24,7 @@
 
 ## 🎨 **Tech Stack & Tools**  
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=python,dart,flutter,firebase,tensorflow,react,aws,docker,github,git,vscode,linux" alt="Tech Stack" />  
+  <img src="https://skillicons.dev/icons?i=python,dart,flutter,firebase,tensorflow,react,aws,docker,github,git,vscode" alt="Tech Stack" />  
 </p>  
 
 ---
@@ -36,15 +36,6 @@
 📌 *Real-time IoT & AI-based water quality monitoring system.*  
 🔗 [Check it out!](https://github.com/ajeshkm/live-water-quality-monitoring)  
 
-### 🏋️ **AI-Powered Fitness Tracker**  
-📌 *A mobile app with AI-generated personalized workout plans.*  
-🔗 [Explore now!](https://github.com/ajeshkm/fitness-tracker)  
-
-### 📋 **Facial Recognition Attendance System**  
-📌 *An AI-based attendance tracking system with deep learning models.*  
-🔗 [See the project](https://github.com/ajeshkm/ai-attendance)  
-
----
 
 ## 🏆 **GitHub Achievements**  
 <p align="center">
@@ -71,11 +62,6 @@
 </p>
 
 ---
-
-## 🐍 **3D Contribution Snake Animation**  
-<p align="center">
-  <img src="https://github.com/ajeshkm/ajeshkm/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-</p>
 
 ---
 
