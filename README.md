@@ -20,8 +20,8 @@ Check out some of my latest work:
 
 ## 📫 Let's Connect!  
 - 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourname](linkedin.com/in/ajesh-km-6a868626a)  
+- 💼 LinkedIn: [linkedin.com/in/ajesh-km-6a868626a](linkedin.com/in/ajesh-km-6a868626a)  
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)  
-- 📩 Email: [your@email.com](mailto:ajesh321km2@gmail.com)  
+- 📩 Email: [ajesh321km2@gmail.com](mailto:ajesh321km2@gmail.com)  
 
 💡 *"Innovating one step at a time!"* 🚀  
