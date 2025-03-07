@@ -37,31 +37,6 @@
 🔗 [Check it out!](https://github.com/ajeshkm/live-water-quality-monitoring)  
 
 
-## 🏆 **GitHub Achievements**  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajeshkm&theme=onedark&no-frame=true&margin-w=10" alt="GitHub Trophy">
-</p>
-
----
-
-## 📊 **GitHub Stats & Activity** 🌟  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ajeshkm&theme=neon-dark&hide_border=true" alt="GitHub Streak" />
-</p>  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajeshkm&show_icons=true&theme=tokyonight&border_color=ffcc00" alt="GitHub Stats" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajeshkm&theme=github_dark" alt="GitHub Contributions Graph">
-</p>
-
----
-
----
 
 ## 📫 **Let's Connect & Collaborate!** 🌍  
 💬 **Want to build something amazing? Let’s connect!**  
