@@ -45,7 +45,7 @@
   <a href="https://linkedin.com/in/ajesh-km-6a868626a">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />  
   </a>  
-  <a href="https://twitter.com/ajeshkm">
+  <a href="https://x.com/AJESH_KM1">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />  
   </a>  
   <a href="mailto:ajesh321km2@gmail.com">
