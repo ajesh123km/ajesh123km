@@ -2,7 +2,7 @@
   🚀 Hey there! I'm <strong><span style="color:#FFA500; text-shadow: 2px 2px 5px red;">AJESH KM</span></strong> 👋     
 </h1>  
 
-<p align="center">
+<p align="center">  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7C400&center=true&vCenter=true&width=700&lines=Tech+Enthusiast+%7C+Web+Dev+%7C+AI+Lover;Flutter+Flow+%7C+Data+Science+Learner+%7C+Innovator;Building+Smart+Solutions!+💡;Future+Entrepreneur+%7C+Let's+Collaborate!+🤝" alt="Typing SVG" />  
 </p>  
 
